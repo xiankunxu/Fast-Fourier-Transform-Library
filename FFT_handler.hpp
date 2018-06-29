@@ -1,3 +1,5 @@
+//Developed by Xiankun Xu: xiankunxu@gmail.com
+
 #include <iostream>
 #include <fstream>
 #include <cmath>
